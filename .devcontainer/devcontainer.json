@@ -1,0 +1,25 @@
+{
+  "name": "Task Automation Bot",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "postCreateCommand": "bash .devcontainer/postCreate.sh",
+  "forwardPorts": [
+    3000,   // React frontend
+    5000,   // Node backend
+    5001    // Python worker (Flask)
+  ],
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": [
+        "ms-azuretools.vscode-docker",
+        "esbenp.prettier-vscode",
+        "ms-python.python"
+      ]
+    }
+  }
+}
