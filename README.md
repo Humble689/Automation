@@ -1,7 +1,7 @@
 # Task Automation Bot
 
 A full-stack project for scheduling and running automation tasks, such as sending emails. 
- 
+
 ## Structure
 
 - **backend/**: Node.js Express API, connects to SQLite, talks to Celery worker
