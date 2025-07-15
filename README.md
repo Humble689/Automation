@@ -1,6 +1,6 @@
 # Task Automation Bot
 
-A full-stack project for scheduling and running automation tasks, such as sending emails.
+A full-stack project for scheduling and running automation tasks, such as sending emails. 
  
 ## Structure
 
