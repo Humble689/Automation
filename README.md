@@ -20,8 +20,6 @@ npm run dev
 ```
 
 ### 2. Frontend 
-### 2. Frontend 
-
 ```bash
 cd frontend
 npm install
