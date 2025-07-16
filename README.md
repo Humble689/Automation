@@ -9,7 +9,7 @@ A full-stack project for scheduling and running automation tasks, such as sendin
 - **celery_worker/**: Python Flask server that runs tasks (e.g., sends email)
 - **database/**: SQLite file (auto-created)
 
-## Quick Start  
+## Quick Start 
 
 ### 1. Backend 
 
