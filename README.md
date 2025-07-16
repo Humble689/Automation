@@ -11,7 +11,7 @@ A full-stack project for scheduling and running automation tasks, such as sendin
 
 ## Quick Start  
 
-### 1. Backend
+### 1. Backend 
 
 ```bash
 cd backend
