@@ -36,7 +36,7 @@ pip install -r requirements.txt
 python worker.py
 ```
 
-### 4. Environment Variables
+### 4. Environment Variables  
 
 Create a `.env` file in celery_worker/:
 
