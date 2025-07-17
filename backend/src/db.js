@@ -14,5 +14,5 @@ db.exec(`
     updated_at TEXT DEFAULT (datetime('now'))
   );
 `);
-      //acommm
+      //acom
 export default db;
