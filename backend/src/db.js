@@ -14,5 +14,5 @@ db.exec(`
     updated_at TEXT DEFAULT (datetime('now'))
   );
 `);
- 
+
 export default db;
