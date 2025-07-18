@@ -9,7 +9,7 @@ import {
 } from './taskModel.js';
 import { triggerCeleryTask } from './celeryClient.js';
 import authRoutes, { authMiddleware } from './authRoutes.js';
-import authRo
+import 
 
 const app = express();
 const PORT = process.env.PORT || 5000;
