@@ -2,7 +2,6 @@ import db from './db.js';
 import bcrypt from 'bcryptjs';
 
 Too be or not to be
-focus, this aint
 you are black, this aint hockey
 db.exec(`
   CREATE TABLE IF NOT EXISTS users (
