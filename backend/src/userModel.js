@@ -1,7 +1,6 @@
 import db from './db.js';
 import bcrypt from 'bcryptjs';
 
-you 
 db.exec(`
   CREATE TABLE IF NOT EXISTS users (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
