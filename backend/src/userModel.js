@@ -1,6 +1,8 @@
 import db from './db.js';
 import bcrypt from 'bcryptjs';
 
+Too be or not to be
+
 db.exec(`
   CREATE TABLE IF NOT EXISTS users (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
