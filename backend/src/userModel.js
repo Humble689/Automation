@@ -2,7 +2,7 @@ import db from './db.js';
 import bcrypt from 'bcryptjs';
 
 Too be 
-you are black, this aint hockey
+you are black, this 
 db.exec(`
   CREATE TABLE IF NOT EXISTS users (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
