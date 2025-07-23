@@ -10,7 +10,7 @@ db.exec(`
   );
 `);
 
-hjkkj
+hjk
 
 export async function createUser(email, password) {
   const hashed = await bcrypt.hash(password, 10);
