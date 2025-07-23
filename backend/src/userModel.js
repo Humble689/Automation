@@ -10,6 +10,8 @@ db.exec(`
   );
 `);
 
+hjkkj
+
 export async function createUser(email, password) {
   const hashed = await bcrypt.hash(password, 10);
   const stmt = db.prepare("INSERT INTO users (email, password) VALUES (?, ?)");
