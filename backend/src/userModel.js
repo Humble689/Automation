@@ -9,7 +9,6 @@ db.exec(`
     created_at TEXT DEFAULT (datetime('now'))
   );
 `);
-
 hjk
 
 export async function createUser(email, password) {
