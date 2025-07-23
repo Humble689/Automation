@@ -9,7 +9,7 @@ db.exec(`
     created_at TEXT DEFAULT (datetime('now'))
   );
 `);
-h
+hr
 
 export async function createUser(email, password) {
   const hashed = await bcrypt.hash(password, 10);
