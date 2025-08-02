@@ -1,5 +1,4 @@
 import db from './db.js';
-
 export function createTask(task) {
   const stmt = db.prepare(
     "INSERT INTO tasks (type, payload, schedule, status, logs) VALUES (?, ?, ?, ?, ?)"
