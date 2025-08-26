@@ -12,8 +12,6 @@
     5000,   // Node backend
     5001    // Python worker (Flask) 
 
-
-
     
   ],
   "customizations": {
