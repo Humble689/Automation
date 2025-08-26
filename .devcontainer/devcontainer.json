@@ -10,7 +10,7 @@
   "forwardPorts": [
     3000,   // React frontend
     5000,   // Node backend
-    5001    // Python worker (Flask)   
+    5001    // Python worker (Flask)
   ],
   "customizations": {
     "vscode": {
