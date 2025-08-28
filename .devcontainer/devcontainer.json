@@ -7,7 +7,6 @@
     "terminal.integrated.defaultProfile.linux": "bash"
   }, 
 
-
   "postCreateCommand": "bash .devcontainer/postCreate.sh",
   "forwardPorts": [
     3000,   // React frontend
