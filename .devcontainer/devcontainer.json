@@ -16,10 +16,10 @@
     "vscode": {
       "settings": {},
       "extensions": [
+        
  "customizations": {
     "vscode": {
-      "settings": {},
-        
+      "settings": 
         "ms-azuretools.vscode-docker",
         "esbenp.prettier-vscode",
         "ms-python.python"
