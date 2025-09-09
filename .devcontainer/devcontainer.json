@@ -17,7 +17,7 @@
       "settings": {},
       "extensions": [
         
- "customizations": {
+
       
         "ms-azuretools.vscode-docker",
         "esbenp.prettier-vscode",
