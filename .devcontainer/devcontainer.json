@@ -19,7 +19,7 @@
  "customizations": {
     "vscode": {
       "settings": {},
-      "extensions": [
+      
 
         
         "ms-azuretools.vscode-docker",
