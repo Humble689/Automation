@@ -4,7 +4,7 @@
     "dockerfile": "Dockerfile"
   },
   "settings": {
-    "terminal.integrated.defaultProfile.linux": "bash" //settings
+    "terminal.integrated.defaultProfile.linux": "bash" 
   },
   "postCreateCommand": "bash .devcontainer/postCreate.sh",
   "forwardPorts": [
