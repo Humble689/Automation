@@ -2,7 +2,7 @@
   "name": "Task Automation Bot",
   "build": {
     "dockerfile": "Dockerfile"
-  }, // build d
+  }, // build doc
   "settings": {    
     "terminal.integrated.defaultProfile.linux": "bash" 
   },
