@@ -3,7 +3,7 @@
   "build": {
     "dockerfile": "Dockerfile"
   },
-  "settings": {
+  "settings": {    
     "terminal.integrated.defaultProfile.linux": "bash" 
   },
   "postCreateCommand": "bash .devcontainer/postCreate.sh",
